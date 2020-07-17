@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "193a6f9c-4e23-4b31-ac63-2205854c11e3",
     "document_id": "_scXGqBt_SP-Y9omAEz1",
     "original_document_id": "K7f76EhazpNu2f2jWAkR",
     "version": "24",
-    "lastChanged": "1594951675561",
+    "lastChanged": "1594953719265",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,34 +30,68 @@
             "collapsedList": [
                 [
                     [
+                        "CreditAlpha"
+                    ],
+                    [
                         "Examples Assets"
                     ],
                     [
                         "Examples Assets",
-                        "Materials"
+                        "Materials",
+                        "foot-1"
                     ],
                     [
                         "Examples Assets",
-                        "Textures"
+                        "Materials",
+                        "foot-2"
                     ],
                     [
                         "Examples Assets",
-                        "Textures",
-                        "foot-empty"
-                    ],
-                    [
-                        "Examples Assets",
-                        "Textures",
-                        "foot-enter1"
-                    ],
-                    [
-                        "Examples Assets",
-                        "Textures",
-                        "foot-enter2"
+                        "Materials",
+                        "foot-3"
                     ],
                     [
                         "Examples Assets",
                         "foot"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Animations"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Meshes"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Meshes",
+                        "occluder"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Meshes",
+                        "occluder 2"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Meshes",
+                        "shoe"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "Meshes",
+                        "shoe 2"
+                    ],
+                    [
+                        "Examples Assets",
+                        "foot",
+                        "foot7"
                     ],
                     [
                         "Foot Tracking Hint"
@@ -104,9 +138,6 @@
                         "ml_hint_hexagon_mask"
                     ],
                     [
-                        "Foot Tracking Resources"
-                    ],
-                    [
                         "Foot Tracking Resources",
                         "ML"
                     ],
@@ -140,18 +171,8 @@
                         "Render Targets"
                     ],
                     [
-                        "Scripts"
-                    ],
-                    [
-                        "Textures"
-                    ],
-                    [
                         "Textures",
                         "Base"
-                    ],
-                    [
-                        "Textures",
-                        "Marvista"
                     ],
                     [
                         "Textures",
@@ -196,18 +217,25 @@
                         "TweenValue"
                     ],
                     [
+                        "pepperoni pizza"
+                    ],
+                    [
                         "pepperoni pizza",
                         "Animations"
                     ],
                     [
                         "pepperoni pizza",
                         "Materials",
-                        "lambert5SG"
+                        "lambert6SG"
                     ],
                     [
                         "pepperoni pizza",
                         "Materials",
-                        "lambert6SG"
+                        "pizza_texture"
+                    ],
+                    [
+                        "pepperoni pizza",
+                        "Meshes"
                     ],
                     [
                         "pepperoni pizza",
@@ -225,9 +253,6 @@
                     ],
                     [
                         "pizzaTxt"
-                    ],
-                    [
-                        "pizza_texture"
                     ]
                 ]
             ]
@@ -238,15 +263,14 @@
                     "1580382554992527:33922166",
                     "1581091966396402:42443012",
                     "1581439571406100:5037950",
+                    "1584032925449330:262985",
+                    "1587548616034424:69589",
+                    "1589521435542939:36806",
                     "1589523080241282:152284",
                     "1591293018570763:7885",
-                    "1591293294622409:53708",
-                    "1591293294638279:53782",
                     "1591744172224955:1969949",
-                    "1591744172561966:1971637",
                     "1591829713011233:916323",
-                    "1591829713041900:916583",
-                    "1594950572022931:941698"
+                    "1591829713041900:916583"
                 ]
             ]
         },
@@ -450,33 +474,9 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "182",
-                    "uid": "1591729413371508:64964",
-                    "name": "Files\/File293.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "183",
-                    "uid": "1591729413443398:64976",
-                    "name": "Files\/File295.jpg",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "186",
                     "uid": "1591729413658538:65028",
                     "name": "Files\/File301",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "192",
-                    "uid": "1591729414846248:65240",
-                    "name": "Files\/File313.jpg",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -509,30 +509,6 @@
                     "resId": "204",
                     "uid": "1591736173784247:1036538",
                     "name": "Files\/File336.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "209",
-                    "uid": "1591744171763891:1969857",
-                    "name": "Files\/File341",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "211",
-                    "uid": "1591744171944166:1969891",
-                    "name": "Files\/File343",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "212",
-                    "uid": "1591744172085828:1969913",
-                    "name": "Files\/File344",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -674,14 +650,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "243",
-                    "uid": "1594950435050236:824649",
-                    "name": "Files\/File395",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "244",
                     "uid": "1594950435109330:824672",
                     "name": "Files\/File397",
@@ -725,6 +693,14 @@
                     "resId": "249",
                     "uid": "1594950440547956:842635",
                     "name": "Files\/File408.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1594953260334999:2658906",
+                    "name": "Files\/File410.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -926,6 +902,20 @@
                                     "attachTop": "false"
                                 }
                             }
+                        },
+                        {
+                            "k": "1594953281285415:2682692",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
                         }
                     ],
                     "generalData": ""
@@ -946,43 +936,37 @@
                 "9": "1590725439698954:568184",
                 "10": "1590725497964220:581720",
                 "11": "1590770198622501:281408",
-                "12": "1591293269009262:48826",
-                "13": "1591293294622409:53708",
-                "14": "1591293294638279:53782",
-                "15": "1591639011435411:595223",
-                "16": "1591725080521210:905815",
-                "17": "1591725080523884:905832",
-                "18": "1591725080526269:905849",
-                "19": "1591725080528636:905866",
-                "20": "1591732072277074:426044",
-                "21": "1591744172224955:1969949",
-                "22": "1591744172226281:1969951",
-                "23": "1591744172365221:1970889",
-                "24": "1591744172503023:1971327",
-                "25": "1591744172561966:1971637",
-                "26": "1591744172563572:1971639",
-                "27": "1591744172693137:1972577",
-                "28": "1591744172817524:1973019",
-                "29": "1591744804731590:2342796",
-                "30": "1591745101850332:2463550",
-                "31": "1591757367009358:489288",
-                "32": "1591829713011233:916323",
-                "33": "1591829713041900:916583",
-                "34": "1591829713073468:916847",
-                "35": "1591829713237147:917303",
-                "36": "1591829713437277:917937",
-                "37": "1594950435423618:824845",
-                "38": "1594950435424528:824855",
-                "39": "1594950435425288:824857",
-                "40": "1594950435429387:824874",
-                "41": "1594950572022931:941698",
-                "42": "1594950737764182:1044094",
-                "43": "1594951120791512:1352533",
-                "44": "1594951120792343:1352535",
-                "45": "1594951120793056:1352537",
-                "46": "1594951120793818:1352539",
-                "47": "1594951120796713:1352553",
-                "48": "1594951251243359:1446909"
+                "12": "1591293294622409:53708",
+                "13": "1591293294638279:53782",
+                "14": "1591639011435411:595223",
+                "15": "1591744172224955:1969949",
+                "16": "1591744172226281:1969951",
+                "17": "1591744172365221:1970889",
+                "18": "1591744172503023:1971327",
+                "19": "1591744172561966:1971637",
+                "20": "1591744172563572:1971639",
+                "21": "1591744172693137:1972577",
+                "22": "1591744172817524:1973019",
+                "23": "1591744804731590:2342796",
+                "24": "1591745101850332:2463550",
+                "25": "1591829713011233:916323",
+                "26": "1591829713041900:916583",
+                "27": "1591829713073468:916847",
+                "28": "1591829713237147:917303",
+                "29": "1591829713437277:917937",
+                "30": "1594950435423618:824845",
+                "31": "1594950435424528:824855",
+                "32": "1594950435425288:824857",
+                "33": "1594950435429387:824874",
+                "34": "1594950572022931:941698",
+                "35": "1594950737764182:1044094",
+                "36": "1594951120791512:1352533",
+                "37": "1594951120792343:1352535",
+                "38": "1594951120793056:1352537",
+                "39": "1594951120793818:1352539",
+                "40": "1594951120796713:1352553",
+                "41": "1594951251243359:1446909",
+                "42": "1594953281285249:2682691"
             }
         },
         "LayerComponent": {
@@ -1104,36 +1088,12 @@
                     "v": "Files\/File292.oprfb"
                 },
                 {
-                    "k": "293",
-                    "v": "Files\/File293.jpg"
-                },
-                {
-                    "k": "294",
-                    "v": "Files\/File294.jpg"
-                },
-                {
-                    "k": "295",
-                    "v": "Files\/File295.jpg"
-                },
-                {
-                    "k": "296",
-                    "v": "Files\/File296.jpg"
-                },
-                {
                     "k": "301",
                     "v": "Files\/File301"
                 },
                 {
                     "k": "302",
                     "v": "Files\/File302.lsmat"
-                },
-                {
-                    "k": "313",
-                    "v": "Files\/File313.jpg"
-                },
-                {
-                    "k": "314",
-                    "v": "Files\/File314.jpg"
                 },
                 {
                     "k": "331",
@@ -1158,18 +1118,6 @@
                 {
                     "k": "336",
                     "v": "Files\/File336.js"
-                },
-                {
-                    "k": "341",
-                    "v": "Files\/File341"
-                },
-                {
-                    "k": "343",
-                    "v": "Files\/File343"
-                },
-                {
-                    "k": "344",
-                    "v": "Files\/File344"
                 },
                 {
                     "k": "345",
@@ -1284,14 +1232,6 @@
                     "v": "Files\/File394.mesh"
                 },
                 {
-                    "k": "395",
-                    "v": "Files\/File395"
-                },
-                {
-                    "k": "396",
-                    "v": "Files\/File396.lsmat"
-                },
-                {
                     "k": "397",
                     "v": "Files\/File397"
                 },
@@ -1342,6 +1282,10 @@
                 {
                     "k": "409",
                     "v": "Files\/File409.png"
+                },
+                {
+                    "k": "410",
+                    "v": "Files\/File410.js"
                 }
             ]
         },
@@ -1427,34 +1371,6 @@
                         "v": "Tween\/TweenManager.js"
                     },
                     {
-                        "k": "12318",
-                        "v": "Examples Assets\/Textures\/foot_shoe_materialParams.jpg"
-                    },
-                    {
-                        "k": "12319",
-                        "v": "Examples Assets\/Textures\/foot_shoe_normal.jpg"
-                    },
-                    {
-                        "k": "12322",
-                        "v": "Examples Assets\/Materials\/foot-1.lsmat"
-                    },
-                    {
-                        "k": "12331",
-                        "v": "Examples Assets\/Textures\/foot_shoe_base.jpg"
-                    },
-                    {
-                        "k": "12333",
-                        "v": "Examples Assets\/foot.fbx"
-                    },
-                    {
-                        "k": "12344",
-                        "v": "Examples Assets\/Materials\/foot-2.lsmat"
-                    },
-                    {
-                        "k": "12345",
-                        "v": "Examples Assets\/Materials\/foot-3.lsmat"
-                    },
-                    {
                         "k": "12346",
                         "v": "Scripts\/ShoeMaterials.js"
                     },
@@ -1463,28 +1379,8 @@
                         "v": "Foot Tracking Hint\/Scripts\/TrackingHintController.js"
                     },
                     {
-                        "k": "12352",
-                        "v": "Examples Assets\/Textures\/foot-empty"
-                    },
-                    {
-                        "k": "12354",
-                        "v": "Examples Assets\/Textures\/foot-enter1"
-                    },
-                    {
-                        "k": "12355",
-                        "v": "Examples Assets\/Textures\/foot-enter2"
-                    },
-                    {
                         "k": "12358",
                         "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
-                    },
-                    {
-                        "k": "12362",
-                        "v": "Textures\/Marvista.hdr"
-                    },
-                    {
-                        "k": "12363",
-                        "v": "Examples Assets"
                     },
                     {
                         "k": "12365",
@@ -1497,14 +1393,6 @@
                     {
                         "k": "12367",
                         "v": "Foot Tracking Resources\/Scripts"
-                    },
-                    {
-                        "k": "12368",
-                        "v": "Examples Assets\/Textures"
-                    },
-                    {
-                        "k": "12369",
-                        "v": "Examples Assets\/Materials"
                     },
                     {
                         "k": "12370",
@@ -1583,10 +1471,6 @@
                         "v": "..\/AdditionalFiles\/pepperoni pizza\/Materials"
                     },
                     {
-                        "k": "12419",
-                        "v": "..\/AdditionalFiles\/pepperoni pizza\/Materials\/lambert5SG.lsmat"
-                    },
-                    {
                         "k": "12420",
                         "v": "..\/AdditionalFiles\/pepperoni pizza\/Materials\/lambert6SG.lsmat"
                     },
@@ -1600,7 +1484,39 @@
                     },
                     {
                         "k": "12423",
-                        "v": "pizza_texture.lsmat"
+                        "v": "..\/AdditionalFiles\/pepperoni pizza\/Materials\/pizza_texture.lsmat"
+                    },
+                    {
+                        "k": "12424",
+                        "v": "Examples Assets"
+                    },
+                    {
+                        "k": "12425",
+                        "v": "Examples Assets\/foot.fbx"
+                    },
+                    {
+                        "k": "12433",
+                        "v": "Examples Assets\/Materials"
+                    },
+                    {
+                        "k": "12434",
+                        "v": "Examples Assets\/Materials\/foot-1.lsmat"
+                    },
+                    {
+                        "k": "12435",
+                        "v": "Examples Assets\/Materials\/foot-2.lsmat"
+                    },
+                    {
+                        "k": "12436",
+                        "v": "Examples Assets\/Materials\/foot-3.lsmat"
+                    },
+                    {
+                        "k": "12442",
+                        "v": "Textures\/Marvista.hdr"
+                    },
+                    {
+                        "k": "12443",
+                        "v": "CreditAlpha.js"
                     }
                 ],
                 "hashes": [
@@ -2130,7 +2046,7 @@
                     },
                     {
                         "k": "12322",
-                        "v": "9985bab5ee7b5a5e18f50b735220251b"
+                        "v": "87397223fa2c296f82633870c119b640"
                     },
                     {
                         "k": "12325",
@@ -2194,11 +2110,11 @@
                     },
                     {
                         "k": "12344",
-                        "v": "46454b33f96c6353d3a69aa3d767d98a"
+                        "v": "afa5e0599654eeb5a2e2a98a7e08198f"
                     },
                     {
                         "k": "12345",
-                        "v": "5ac4d1630dd68365227368bff3149573"
+                        "v": "9f6c5f69d1a50c602a6bb982dc9bff31"
                     },
                     {
                         "k": "12346",
@@ -2258,11 +2174,11 @@
                     },
                     {
                         "k": "12374",
-                        "v": "d67823fc4050b14dcba53711f660ffc0"
+                        "v": "06101814032bc5a6f50b2ef3f936df87"
                     },
                     {
                         "k": "12375",
-                        "v": "adb061baf7f778bf35bb2bf872518e17"
+                        "v": "e5d59550711881d0602bee72c86bdab9"
                     },
                     {
                         "k": "12376",
@@ -2374,19 +2290,83 @@
                     },
                     {
                         "k": "12423",
-                        "v": "9b55874f3d1626f5a9af411a6dc29d9e"
+                        "v": "368ce82289eea90c8314e70b474ca545"
+                    },
+                    {
+                        "k": "12425",
+                        "v": "ea0c0b1a08347a69ebcfab61c89665dc"
+                    },
+                    {
+                        "k": "12427",
+                        "v": "3f1263b45f252993323595a7c92f2ba6"
+                    },
+                    {
+                        "k": "12428",
+                        "v": "b6035aef9793f57b973cf5e80247a9d8"
+                    },
+                    {
+                        "k": "12429",
+                        "v": "2ada19c36154a5f5c97f77556d675d6f"
+                    },
+                    {
+                        "k": "12430",
+                        "v": "3d347e02494607845485fb41eab9b433"
+                    },
+                    {
+                        "k": "12431",
+                        "v": "e3f2746d2c455d6b03a30afefa985b6f"
+                    },
+                    {
+                        "k": "12432",
+                        "v": "3987ecfcdc0c5b082c2dc3518717e76f"
+                    },
+                    {
+                        "k": "12434",
+                        "v": "69516ed60c8759456f29c885a49a6f40"
+                    },
+                    {
+                        "k": "12435",
+                        "v": "368f029536b9004ed80262a74298ffd2"
+                    },
+                    {
+                        "k": "12436",
+                        "v": "d88976966ed5caefae5003cb7ebb4a39"
+                    },
+                    {
+                        "k": "12437",
+                        "v": "a7ac471fd7325168eb784a10577fb476"
+                    },
+                    {
+                        "k": "12439",
+                        "v": "3f1263b45f252993323595a7c92f2ba6"
+                    },
+                    {
+                        "k": "12440",
+                        "v": "b6035aef9793f57b973cf5e80247a9d8"
+                    },
+                    {
+                        "k": "12441",
+                        "v": "2ada19c36154a5f5c97f77556d675d6f"
+                    },
+                    {
+                        "k": "12442",
+                        "v": "a7ac471fd7325168eb784a10577fb476"
+                    },
+                    {
+                        "k": "12443",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-16T18:47:32",
+                        "lastModified": "2020-07-16T19:37:42",
                         "name": "Public",
-                        "hash": "e43c4514bc84a6d1633e31a2fa01b9ba",
+                        "hash": "88a2418ccc9343a59d83e9eac8b3d096",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-16T18:47:20",
+                                "lastModified": "2020-07-16T19:25:24",
                                 "name": "Textures",
                                 "hash": "16626ddca2468a6ce12c7f299187e092",
                                 "children": [
@@ -2399,7 +2379,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-06-10T18:35:35",
+                                        "lastModified": "2020-07-16T19:05:32",
                                         "name": "Marvista.hdr",
                                         "hash": "a7ac471fd7325168eb784a10577fb476",
                                         "children": ""
@@ -2508,142 +2488,40 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-06-10T18:35:35",
+                                "lastModified": "2020-07-16T19:25:16",
                                 "name": "Examples Assets",
-                                "hash": "2b0706b5ca8cdffab137f2d6a52ffb2e",
+                                "hash": "046d678d3a8a61173be84e0591ceedbf",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-06-10T18:35:35",
-                                        "name": "Textures",
-                                        "hash": "97032d23711530cd79d5228d96fa1c7e",
-                                        "children": [
-                                            {
-                                                "isFolder": "true",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot-empty",
-                                                "hash": "ff45e8c82f39f809935a52370b67d88a",
-                                                "children": [
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "atlas_0.png",
-                                                        "hash": "ad128d60553dd479dbc3cd40758941cd",
-                                                        "children": ""
-                                                    },
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "animation.t3d",
-                                                        "hash": "5064ed56439d7ee44cd6dae717a85b2a",
-                                                        "children": ""
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot_shoe_normal.jpg",
-                                                "hash": "b6035aef9793f57b973cf5e80247a9d8",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "true",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot-enter1",
-                                                "hash": "fe19e6b5ba309fb945e57cec39851a8a",
-                                                "children": [
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "atlas_0.png",
-                                                        "hash": "d74457ea7fb4a4a6c5650b3fe1cb6bd9",
-                                                        "children": ""
-                                                    },
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "animation.t3d",
-                                                        "hash": "b365837d5754af5d81b7c9e7aec3e1e9",
-                                                        "children": ""
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot_shoe_materialParams.jpg",
-                                                "hash": "3f1263b45f252993323595a7c92f2ba6",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "true",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot-enter2",
-                                                "hash": "7270d37399d8cd34ad139c686769b138",
-                                                "children": [
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "atlas_0.png",
-                                                        "hash": "9b6e5d6c4bcacb160e1a3b909780c509",
-                                                        "children": ""
-                                                    },
-                                                    {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2020-06-10T18:35:35",
-                                                        "name": "animation.t3d",
-                                                        "hash": "b365837d5754af5d81b7c9e7aec3e1e9",
-                                                        "children": ""
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "foot_shoe_base.jpg",
-                                                "hash": "2ada19c36154a5f5c97f77556d675d6f",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-06-10T18:35:35",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2020-07-16T19:07:04",
+                                        "lastModified": "2020-07-16T19:41:50",
                                         "name": "Materials",
-                                        "hash": "c52e3f10b13b34842ff58eb178316d0c",
+                                        "hash": "8fe630fea2f47f1f1bb7cb66587b7bad",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-16T19:07:04",
+                                                "lastModified": "2020-07-16T19:41:50",
                                                 "name": "foot-2.lsmat",
-                                                "hash": "6a550937461cc5651578f6bac3be3108",
+                                                "hash": "1ed0ba4d0c5175d2ea923f70444f5b26",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-16T19:07:04",
+                                                "lastModified": "2020-07-16T19:41:50",
                                                 "name": "foot-3.lsmat",
-                                                "hash": "c412672f2740657fbc57b4d2742282b7",
+                                                "hash": "484f25258a397a3b5ab618300e0d2a9d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-16T19:07:04",
+                                                "lastModified": "2020-07-16T19:41:50",
                                                 "name": "foot-1.lsmat",
-                                                "hash": "f4ed503b9826c2277daf75cfb42fce6e",
+                                                "hash": "f0a67e30d0054c59aa242b2faccfb9c3",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-06-10T18:35:35",
+                                                "lastModified": "2020-07-16T19:18:33",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -2652,14 +2530,14 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-06-10T18:35:35",
+                                        "lastModified": "2020-07-16T19:05:32",
                                         "name": "foot.fbx",
                                         "hash": "ea0c0b1a08347a69ebcfab61c89665dc",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-06-10T18:35:35",
+                                        "lastModified": "2020-07-16T19:18:33",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2850,9 +2728,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-07-16T18:47:32",
-                                "name": "pizza_texture.lsmat",
-                                "hash": "9b55874f3d1626f5a9af411a6dc29d9e",
+                                "lastModified": "2020-07-16T19:37:42",
+                                "name": "CreditAlpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -2866,26 +2744,26 @@
                                 "isFolder": "true",
                                 "lastModified": "2020-06-10T18:35:35",
                                 "name": "Foot Tracking Resources",
-                                "hash": "4b060c4c370fe856b9136a2eaeadc871",
+                                "hash": "6ee9acbb323efa5d5a9242a94818486e",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2020-07-16T19:07:05",
+                                        "lastModified": "2020-07-16T19:41:50",
                                         "name": "Materials",
-                                        "hash": "c25360a24cd8aee2246fcaf373d15bdc",
+                                        "hash": "f801376258d5523f3dca329fb3deb71e",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-16T19:07:05",
+                                                "lastModified": "2020-07-16T19:41:50",
                                                 "name": "Occluder Right.lsmat",
-                                                "hash": "499c5c3867fc01cf1841ee1978e822b5",
+                                                "hash": "9707e9f30b03a5f8b8c53e668f5d59ce",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2020-07-16T19:07:04",
+                                                "lastModified": "2020-07-16T19:41:50",
                                                 "name": "Occluder Left.lsmat",
-                                                "hash": "21198a68516ec55f0cf29cae3cd41854",
+                                                "hash": "bed84cbf397dbb26c7e88a3b22dfd7b2",
                                                 "children": ""
                                             },
                                             {
@@ -2988,11 +2866,7 @@
                         ]
                     }
                 },
-                "complexResources": [
-                    "12352",
-                    "12354",
-                    "12355"
-                ]
+                "complexResources": ""
             },
             "tree": {
                 "name": "",
@@ -3064,6 +2938,32 @@
                         "additional": "",
                         "resources": [
                             {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "248",
+                                "dependency": "0",
+                                "uid": "1594950440515346:842619",
+                                "fileId": "406",
+                                "originalId": "407",
+                                "publicId": "12421",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HRVXHU\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "249",
+                                "dependency": "0",
+                                "uid": "1594950440547956:842635",
+                                "fileId": "408",
+                                "originalId": "409",
+                                "publicId": "12422",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HRVXHU\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
                                 "name": "Marvista",
                                 "type": "9",
                                 "subtype": "-1",
@@ -3072,7 +2972,7 @@
                                 "uid": "-1:-1",
                                 "fileId": "354",
                                 "originalId": "18446744073709551615",
-                                "publicId": "12362",
+                                "publicId": "12442",
                                 "source": "",
                                 "additional": "",
                                 "resources": [
@@ -3103,32 +3003,6 @@
                                         "additional": ""
                                     }
                                 ]
-                            },
-                            {
-                                "name": "Base",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "248",
-                                "dependency": "0",
-                                "uid": "1594950440515346:842619",
-                                "fileId": "406",
-                                "originalId": "407",
-                                "publicId": "12421",
-                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HRVXHU\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                "additional": ""
-                            },
-                            {
-                                "name": "white",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "249",
-                                "dependency": "0",
-                                "uid": "1594950440547956:842635",
-                                "fileId": "408",
-                                "originalId": "409",
-                                "publicId": "12422",
-                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HRVXHU\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                "additional": ""
                             }
                         ]
                     },
@@ -3183,404 +3057,6 @@
                                 "publicId": "12346",
                                 "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-pIZoSF\/\/system\/\/emergencyFiles\/emergencyJs.js",
                                 "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Examples Assets",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "12363",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "foot",
-                                "type": "18",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "2",
-                                "uid": "-1:-1",
-                                "fileId": "291",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12333",
-                                "source": "",
-                                "additional": {
-                                    "materialMapping": [
-                                        {
-                                            "k": "shoe",
-                                            "v": "1591725079897239:905582"
-                                        }
-                                    ]
-                                },
-                                "resources": [
-                                    {
-                                        "name": "Meshes",
-                                        "type": "0",
-                                        "subtype": "-1",
-                                        "resourceId": "-1",
-                                        "dependency": "1",
-                                        "uid": "-1:-1",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": "",
-                                        "resources": [
-                                            {
-                                                "name": "shoe",
-                                                "type": "3",
-                                                "subtype": "0",
-                                                "resourceId": "176",
-                                                "dependency": "1",
-                                                "uid": "1591725079687295:905510",
-                                                "fileId": "280",
-                                                "originalId": "281",
-                                                "publicId": "18446744073709551615",
-                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                                "additional": {
-                                                    "originalAttribs": {
-                                                        "vertexAttribs": [
-                                                            {
-                                                                "semantic": "position",
-                                                                "format": "9",
-                                                                "index": "0"
-                                                            },
-                                                            {
-                                                                "semantic": "normal",
-                                                                "format": "9",
-                                                                "index": "1"
-                                                            },
-                                                            {
-                                                                "semantic": "tangent",
-                                                                "format": "9",
-                                                                "index": "2"
-                                                            },
-                                                            {
-                                                                "semantic": "color",
-                                                                "format": "3",
-                                                                "index": "3"
-                                                            },
-                                                            {
-                                                                "semantic": "texture0",
-                                                                "format": "9",
-                                                                "index": "4"
-                                                            }
-                                                        ]
-                                                    }
-                                                }
-                                            },
-                                            {
-                                                "name": "occluder",
-                                                "type": "3",
-                                                "subtype": "0",
-                                                "resourceId": "177",
-                                                "dependency": "1",
-                                                "uid": "1591725079743188:905528",
-                                                "fileId": "282",
-                                                "originalId": "283",
-                                                "publicId": "18446744073709551615",
-                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                                "additional": {
-                                                    "originalAttribs": {
-                                                        "vertexAttribs": [
-                                                            {
-                                                                "semantic": "position",
-                                                                "format": "9",
-                                                                "index": "0"
-                                                            },
-                                                            {
-                                                                "semantic": "normal",
-                                                                "format": "9",
-                                                                "index": "1"
-                                                            },
-                                                            {
-                                                                "semantic": "tangent",
-                                                                "format": "9",
-                                                                "index": "2"
-                                                            },
-                                                            {
-                                                                "semantic": "color",
-                                                                "format": "3",
-                                                                "index": "3"
-                                                            },
-                                                            {
-                                                                "semantic": "texture0",
-                                                                "format": "9",
-                                                                "index": "4"
-                                                            }
-                                                        ]
-                                                    }
-                                                }
-                                            },
-                                            {
-                                                "name": "shoe 2",
-                                                "type": "3",
-                                                "subtype": "0",
-                                                "resourceId": "178",
-                                                "dependency": "1",
-                                                "uid": "1591725079797358:905550",
-                                                "fileId": "284",
-                                                "originalId": "285",
-                                                "publicId": "18446744073709551615",
-                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                                "additional": {
-                                                    "originalAttribs": {
-                                                        "vertexAttribs": [
-                                                            {
-                                                                "semantic": "position",
-                                                                "format": "9",
-                                                                "index": "0"
-                                                            },
-                                                            {
-                                                                "semantic": "normal",
-                                                                "format": "9",
-                                                                "index": "1"
-                                                            },
-                                                            {
-                                                                "semantic": "tangent",
-                                                                "format": "9",
-                                                                "index": "2"
-                                                            },
-                                                            {
-                                                                "semantic": "color",
-                                                                "format": "3",
-                                                                "index": "3"
-                                                            },
-                                                            {
-                                                                "semantic": "texture0",
-                                                                "format": "9",
-                                                                "index": "4"
-                                                            }
-                                                        ]
-                                                    }
-                                                }
-                                            },
-                                            {
-                                                "name": "occluder 2",
-                                                "type": "3",
-                                                "subtype": "0",
-                                                "resourceId": "179",
-                                                "dependency": "1",
-                                                "uid": "1591725079855056:905568",
-                                                "fileId": "286",
-                                                "originalId": "287",
-                                                "publicId": "18446744073709551615",
-                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
-                                                "additional": {
-                                                    "originalAttribs": {
-                                                        "vertexAttribs": [
-                                                            {
-                                                                "semantic": "position",
-                                                                "format": "9",
-                                                                "index": "0"
-                                                            },
-                                                            {
-                                                                "semantic": "normal",
-                                                                "format": "9",
-                                                                "index": "1"
-                                                            },
-                                                            {
-                                                                "semantic": "tangent",
-                                                                "format": "9",
-                                                                "index": "2"
-                                                            },
-                                                            {
-                                                                "semantic": "color",
-                                                                "format": "3",
-                                                                "index": "3"
-                                                            },
-                                                            {
-                                                                "semantic": "texture0",
-                                                                "format": "9",
-                                                                "index": "4"
-                                                            }
-                                                        ]
-                                                    }
-                                                }
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "name": "Animations",
-                                        "type": "0",
-                                        "subtype": "-1",
-                                        "resourceId": "-1",
-                                        "dependency": "1",
-                                        "uid": "-1:-1",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": "",
-                                        "resources": ""
-                                    },
-                                    {
-                                        "name": "foot7",
-                                        "type": "12",
-                                        "subtype": "-1",
-                                        "resourceId": "181",
-                                        "dependency": "1",
-                                        "uid": "1591725080267759:905724",
-                                        "fileId": "290",
-                                        "originalId": "292",
-                                        "publicId": "18446744073709551615",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Textures",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12368",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "foot_shoe_materialParams",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "182",
-                                        "dependency": "0",
-                                        "uid": "1591729413371508:64964",
-                                        "fileId": "293",
-                                        "originalId": "294",
-                                        "publicId": "12318",
-                                        "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-pIZoSF\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot_shoe_normal",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "183",
-                                        "dependency": "0",
-                                        "uid": "1591729413443398:64976",
-                                        "fileId": "295",
-                                        "originalId": "296",
-                                        "publicId": "12319",
-                                        "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-pIZoSF\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot_shoe_base",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "192",
-                                        "dependency": "0",
-                                        "uid": "1591729414846248:65240",
-                                        "fileId": "313",
-                                        "originalId": "314",
-                                        "publicId": "12331",
-                                        "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-pIZoSF\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot-empty",
-                                        "type": "1",
-                                        "subtype": "5",
-                                        "resourceId": "209",
-                                        "dependency": "0",
-                                        "uid": "1591744171763891:1969857",
-                                        "fileId": "341",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "12352",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot-enter1",
-                                        "type": "1",
-                                        "subtype": "5",
-                                        "resourceId": "211",
-                                        "dependency": "0",
-                                        "uid": "1591744171944166:1969891",
-                                        "fileId": "343",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "12354",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot-enter2",
-                                        "type": "1",
-                                        "subtype": "5",
-                                        "resourceId": "212",
-                                        "dependency": "0",
-                                        "uid": "1591744172085828:1969913",
-                                        "fileId": "344",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "12355",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Materials",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12369",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "foot-1",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "186",
-                                        "dependency": "0",
-                                        "uid": "1591729413658538:65028",
-                                        "fileId": "301",
-                                        "originalId": "302",
-                                        "publicId": "12322",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot-2",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "201",
-                                        "dependency": "0",
-                                        "uid": "1591729588854869:91540",
-                                        "fileId": "331",
-                                        "originalId": "332",
-                                        "publicId": "12344",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "foot-3",
-                                        "type": "2",
-                                        "subtype": "1",
-                                        "resourceId": "202",
-                                        "dependency": "0",
-                                        "uid": "1591729589209107:91618",
-                                        "fileId": "333",
-                                        "originalId": "334",
-                                        "publicId": "12345",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
                             }
                         ]
                     },
@@ -7285,19 +6761,6 @@
                                 "additional": "",
                                 "resources": [
                                     {
-                                        "name": "lambert5SG",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "243",
-                                        "dependency": "0",
-                                        "uid": "1594950435050236:824649",
-                                        "fileId": "395",
-                                        "originalId": "396",
-                                        "publicId": "12419",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
                                         "name": "lambert6SG",
                                         "type": "2",
                                         "subtype": "0",
@@ -7307,6 +6770,19 @@
                                         "fileId": "397",
                                         "originalId": "398",
                                         "publicId": "12420",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "pizza_texture",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "247",
+                                        "dependency": "0",
+                                        "uid": "1594950440426155:842573",
+                                        "fileId": "404",
+                                        "originalId": "405",
+                                        "publicId": "12423",
                                         "source": "",
                                         "additional": ""
                                     }
@@ -7328,27 +6804,328 @@
                         ]
                     },
                     {
-                        "name": "pizza_texture",
-                        "type": "2",
-                        "subtype": "0",
-                        "resourceId": "247",
+                        "name": "Examples Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
                         "dependency": "0",
-                        "uid": "1594950440426155:842573",
-                        "fileId": "404",
-                        "originalId": "405",
-                        "publicId": "12423",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12424",
                         "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "foot",
+                                "type": "18",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "uid": "-1:-1",
+                                "fileId": "291",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12425",
+                                "source": "",
+                                "additional": {
+                                    "materialMapping": [
+                                        {
+                                            "k": "shoe",
+                                            "v": "1591725079897239:905582"
+                                        }
+                                    ]
+                                },
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "shoe",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "176",
+                                                "dependency": "1",
+                                                "uid": "1591725079687295:905510",
+                                                "fileId": "280",
+                                                "originalId": "281",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "originalAttribs": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "index": "0"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "index": "1"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "index": "2"
+                                                            },
+                                                            {
+                                                                "semantic": "color",
+                                                                "format": "3",
+                                                                "index": "3"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "index": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "occluder",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "177",
+                                                "dependency": "1",
+                                                "uid": "1591725079743188:905528",
+                                                "fileId": "282",
+                                                "originalId": "283",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "originalAttribs": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "index": "0"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "index": "1"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "index": "2"
+                                                            },
+                                                            {
+                                                                "semantic": "color",
+                                                                "format": "3",
+                                                                "index": "3"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "index": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "shoe 2",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "178",
+                                                "dependency": "1",
+                                                "uid": "1591725079797358:905550",
+                                                "fileId": "284",
+                                                "originalId": "285",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "originalAttribs": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "index": "0"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "index": "1"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "index": "2"
+                                                            },
+                                                            {
+                                                                "semantic": "color",
+                                                                "format": "3",
+                                                                "index": "3"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "index": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "name": "occluder 2",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "179",
+                                                "dependency": "1",
+                                                "uid": "1591725079855056:905568",
+                                                "fileId": "286",
+                                                "originalId": "287",
+                                                "publicId": "18446744073709551615",
+                                                "source": "\/private\/var\/folders\/wy\/5vvy2ys5191d27n58ybv35180000gp\/T\/Lens Studio-RuHeOE\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                                "additional": {
+                                                    "originalAttribs": {
+                                                        "vertexAttribs": [
+                                                            {
+                                                                "semantic": "position",
+                                                                "format": "9",
+                                                                "index": "0"
+                                                            },
+                                                            {
+                                                                "semantic": "normal",
+                                                                "format": "9",
+                                                                "index": "1"
+                                                            },
+                                                            {
+                                                                "semantic": "tangent",
+                                                                "format": "9",
+                                                                "index": "2"
+                                                            },
+                                                            {
+                                                                "semantic": "color",
+                                                                "format": "3",
+                                                                "index": "3"
+                                                            },
+                                                            {
+                                                                "semantic": "texture0",
+                                                                "format": "9",
+                                                                "index": "4"
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "1",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": ""
+                                    },
+                                    {
+                                        "name": "foot7",
+                                        "type": "12",
+                                        "subtype": "-1",
+                                        "resourceId": "181",
+                                        "dependency": "1",
+                                        "uid": "1591725080267759:905724",
+                                        "fileId": "290",
+                                        "originalId": "292",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12433",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "foot-1",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "186",
+                                        "dependency": "0",
+                                        "uid": "1591729413658538:65028",
+                                        "fileId": "301",
+                                        "originalId": "302",
+                                        "publicId": "12434",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "foot-2",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "201",
+                                        "dependency": "0",
+                                        "uid": "1591729588854869:91540",
+                                        "fileId": "331",
+                                        "originalId": "332",
+                                        "publicId": "12435",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "foot-3",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "202",
+                                        "dependency": "0",
+                                        "uid": "1591729589209107:91618",
+                                        "fileId": "333",
+                                        "originalId": "334",
+                                        "publicId": "12436",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "CreditAlpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "250",
+                        "dependency": "0",
+                        "uid": "1594953260334999:2658906",
+                        "fileId": "410",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12443",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-HKkQuF\/\/system\/\/emergencyFiles\/emergencyJs.js",
                         "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1591732072277074:426044"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
